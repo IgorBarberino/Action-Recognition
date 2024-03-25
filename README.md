@@ -30,4 +30,4 @@ The model_video_classification.ipynb has all the code necessary to pre process a
 The model_utilization.ipynb has sections that facilitate to load the model and test it with saved video or in real time using a webcam.
  
 # References
-part of the code utilized to build the notebook is available in https://github.com/google/mediapipe.git
+part of the code utilized to build the notebook is available in [https://github.com/google/mediapipe.git](https://github.com/google/mediapipe.git) and [https://github.com/lollinng/Action-Recognition-System/tree/main](https://github.com/lollinng/Action-Recognition-System.git)https://github.com/lollinng/Action-Recognition-System.git
